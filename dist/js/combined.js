@@ -206,16 +206,16 @@ jQuery.extend( jQuery.easing,
  *
  */
 $(document).ready(function(){
-    console.log('footer');
-})
-$(document).ready(function(){
     console.log('header');
 })
 $(document).ready(function(){
-    console.log('main intro');
+    console.log('footer');
 })
 $(document).ready(function(){
     console.log('visual');
+})
+$(document).ready(function(){
+    console.log('main intro');
 })
 $(document).ready(function(){
     console.log('sub community');
