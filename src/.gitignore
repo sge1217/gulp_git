@@ -1,0 +1,8 @@
+node_modules/
+dist/
+static/
+img/
+config.json
+gulpfile.js
+package.json
+package-lock.json

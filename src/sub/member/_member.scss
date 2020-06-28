@@ -1,0 +1,14 @@
+.member {
+    .inner {
+        border:1px solid blue;
+    }
+}
+
+//tablet
+@media screen and (max-width:$tablet){
+    
+}
+//cellphone
+@media screen and (max-width:$cellphone){
+    
+}

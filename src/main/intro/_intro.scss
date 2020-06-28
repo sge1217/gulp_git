@@ -1,0 +1,18 @@
+#intro {
+    width:100%; padding:150px 0px; box-sizing:border-box;
+
+    .inner {
+        width:1180px; min-height:400px; margin:0px auto; border:1px solid red;
+    }
+}
+
+
+//tablet
+@media screen and (max-width:$tablet){
+    
+}
+//cellphone
+@media screen and (max-width:$cellphone){
+    
+}
+
